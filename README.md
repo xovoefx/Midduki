@@ -134,6 +134,8 @@ How To Deploy 👉
 </a>
 </p>
 </details>
+## Deploy Xovo
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/WhFhjC)
 
 ### Repo Status
 
