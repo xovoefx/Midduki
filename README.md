@@ -130,7 +130,8 @@ How To Deploy 👉
 <details><summary>Deploy To Railway</summary>
 <p>
 <br>
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/WhFhjC)
+<a href="https://railway.app/new/template/WhFhjC">
+
 </a>
 </p>
 </details>
