@@ -225,12 +225,12 @@ class vars(object):
             button()
                 (
                     "Support",
-                        url="https://t.me/+sv5flNs7yew1OTk1"
+                        url="https://t.me/venombothelp"
                 ),
             button()
                 (
                     "Updates",
-                        url="https://t.me/Mo_Tech_YT"
+                        url="https://t.me/venombothelp"
                 )
         ],
         [
@@ -304,24 +304,24 @@ class vars(object):
             button()
                 (
                     "Support",
-                        url="https://t.me/Mo_Tech_YT"
+                        url="https://t.me/venombothelp"
                 ),
             button()
                 (
                     "Source",
-                        url="https://t.me/+sv5flNs7yew1OTk1"
+                        url="https://t.me/biriyanikadaofficial"
                 )
         ],
         [
             button()
                 (
                     "Tutorial",
-                        url="https://youtu.be/63K9xkKMBoo"
+                        url="https://t.me/fggedhi3qdj"
                 ),
             button()
                 (
                     "Insta",
-                        url="https://www.instagram.com/mrk_yt_"
+                        url="https://t.me/mhg14hcrih"
                 )
         ],
         [
